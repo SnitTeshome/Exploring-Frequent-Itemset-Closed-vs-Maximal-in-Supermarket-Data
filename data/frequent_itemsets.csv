@@ -1,1 +1,11 @@
 support,itemsets
+0.17,frozenset({'Chips'})
+0.16233333333333333,frozenset({'Eggs'})
+0.161,frozenset({'Yogurt'})
+0.15933333333333333,frozenset({'Cookies'})
+0.159,frozenset({'Cheese'})
+0.15666666666666668,frozenset({'Ice Cream'})
+0.15433333333333332,frozenset({'Juice'})
+0.154,frozenset({'Soda'})
+0.154,frozenset({'Coffee'})
+0.15266666666666667,frozenset({'Fish'})
