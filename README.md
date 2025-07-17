@@ -391,9 +391,6 @@ print("\n*Number of Maximal Frequent Itemsets:*", len(maximal_df))
 - *('Chips',)* → *('Chips', 'Cookies', 'Soda')*
 ```
 
-
-```
-
 ### *Group Members*
 
 | Name                    | Student ID | GitHub Username | Role & Contribution                                                                                                |
