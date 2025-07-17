@@ -306,7 +306,8 @@ maximal_df.to_csv('maximal_itemsets.csv', index=False)
 print("\n*Maximal Frequent Itemsets:*\n", maximal_df)
 print("\n*Number of Maximal Frequent Itemsets:*", len(maximal_df))
 ```
-![alt text](image-2.png)
+<img width="1700" height="486" alt="image" src="https://github.com/user-attachments/assets/8e0f4d22-0c7a-4c17-b2e0-f26373d0868b" />
+
 #### *The data is saved on maximal_itemsets.csv*
 
 
