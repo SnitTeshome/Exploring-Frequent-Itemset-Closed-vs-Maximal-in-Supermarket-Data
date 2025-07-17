@@ -245,7 +245,7 @@ print(closed_df[['support', 'itemsets', 'approx_occurrences']])
 print("\nTotal Number of Closed Itemsets:", len(closed_df))
 ```
 ### Closed Itemsets:
-<img width="1700" height="486" alt="image" src="https://github.com/user-attachments/assets/22fbd909-4fc3-4a29-a0ae-5c6a1956120f" />
+<img width="1695" height="525" alt="image" src="https://github.com/user-attachments/assets/34fd01b7-26c7-4a36-891d-e3ee463d6835" />
 
 ### *The data is saved on closed_itemsets.csv*
 ### *Interpretation by Key Observations*
