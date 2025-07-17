@@ -1,31 +1,46 @@
 support,itemsets,approx_occurrences
-0.17,frozenset({'Chips'}),510
-0.16233333333333333,frozenset({'Eggs'}),487
-0.161,frozenset({'Yogurt'}),483
-0.15933333333333333,frozenset({'Cookies'}),478
-0.159,frozenset({'Cheese'}),477
-0.15666666666666668,frozenset({'Ice Cream'}),470
-0.15433333333333332,frozenset({'Juice'}),463
-0.154,frozenset({'Soda'}),462
-0.154,frozenset({'Coffee'}),462
-0.15266666666666667,frozenset({'Fish'}),458
-0.15266666666666667,frozenset({'Cereal'}),458
-0.15233333333333332,frozenset({'Onions'}),457
-0.152,frozenset({'Butter'}),456
-0.15033333333333335,frozenset({'Rice'}),451
-0.14766666666666667,frozenset({'Carrots'}),443
-0.147,frozenset({'Bread'}),441
-0.14666666666666667,frozenset({'Tea'}),440
-0.14666666666666667,frozenset({'Potatoes'}),440
-0.146,frozenset({'Apples'}),438
-0.14533333333333334,frozenset({'Flour'}),436
-0.145,frozenset({'Oil'}),435
-0.145,frozenset({'Pasta'}),435
-0.14433333333333334,frozenset({'Bananas'}),433
-0.144,frozenset({'Sugar'}),432
-0.14366666666666666,frozenset({'Chicken'}),431
-0.142,frozenset({'Salt'}),426
-0.14133333333333334,frozenset({'Tomatoes'}),424
-0.14133333333333334,frozenset({'Milk'}),424
-0.13933333333333334,frozenset({'Pepper'}),418
-0.13666666666666666,frozenset({'Beef'}),410
+0.18033333333333335,frozenset({'Soda'}),541
+0.17933333333333334,frozenset({'Chips'}),538
+0.173,frozenset({'Cookies'}),519
+0.165,frozenset({'Bread'}),495
+0.163,frozenset({'Milk'}),489
+0.16266666666666665,frozenset({'Cheese'}),488
+0.161,frozenset({'Bananas'}),483
+0.15733333333333333,frozenset({'Eggs'}),472
+0.15333333333333332,frozenset({'Apples'}),460
+0.151,frozenset({'Butter'}),453
+0.15066666666666667,frozenset({'Chicken'}),452
+0.14766666666666667,frozenset({'Yogurt'}),443
+0.14466666666666667,frozenset({'Rice'}),434
+0.123,"frozenset({'Soda', 'Chips'})",369
+0.123,"frozenset({'Cookies', 'Chips'})",369
+0.12066666666666667,"frozenset({'Soda', 'Cookies'})",362
+0.11666666666666667,"frozenset({'Soda', 'Cookies', 'Chips'})",350
+0.10766666666666666,"frozenset({'Bread', 'Milk'})",323
+0.10433333333333333,"frozenset({'Eggs', 'Butter'})",313
+0.104,"frozenset({'Cheese', 'Eggs'})",312
+0.10266666666666667,"frozenset({'Cheese', 'Butter'})",308
+0.1,"frozenset({'Cheese', 'Eggs', 'Butter'})",300
+0.1,"frozenset({'Yogurt', 'Bananas'})",300
+0.09866666666666667,"frozenset({'Apples', 'Bananas'})",296
+0.09733333333333333,"frozenset({'Apples', 'Yogurt'})",292
+0.094,"frozenset({'Apples', 'Yogurt', 'Bananas'})",282
+0.09333333333333334,"frozenset({'Rice', 'Chicken'})",280
+0.083,frozenset({'Onions'}),249
+0.07566666666666666,frozenset({'Juice'}),227
+0.07233333333333333,frozenset({'Fish'}),217
+0.07166666666666667,frozenset({'Pasta'}),215
+0.07133333333333333,frozenset({'Tomatoes'}),214
+0.071,frozenset({'Cereal'}),213
+0.07033333333333333,frozenset({'Tea'}),211
+0.06933333333333333,frozenset({'Beef'}),208
+0.069,frozenset({'Ice Cream'}),207
+0.06866666666666667,frozenset({'chips'}),206
+0.068,frozenset({'Pepper'}),204
+0.06766666666666667,frozenset({'Oil'}),203
+0.06733333333333333,frozenset({'Potatoes'}),202
+0.06666666666666667,frozenset({'Coffee'}),200
+0.06633333333333333,frozenset({'Sugar'}),199
+0.06566666666666666,frozenset({'Carrots'}),197
+0.06433333333333334,frozenset({'Flour'}),193
+0.06133333333333333,frozenset({'Salt'}),184
