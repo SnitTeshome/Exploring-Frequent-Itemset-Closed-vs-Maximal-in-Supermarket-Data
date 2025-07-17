@@ -192,7 +192,8 @@ print("\nTop 10 Frequent Itemsets:\n", frequent_itemsets.head(10))
 ```
 ### T*op 10 Frequent Itemsets:*
 
-![alt text](image-3.png)
+<img width="1680" height="221" alt="image" src="https://github.com/user-attachments/assets/f45d5548-5808-4c92-8cdc-2b186a2babbb" />
+
 
 
 ### *[Student: Halima]*
